@@ -1,9 +1,5 @@
-# Curso Microsserviços Java com Spring Boot e Spring Cloud
-## Atenção: curso específico para versões Java 11 e Spring Boot 2.3.4
-#### Nelio Alves 
-- https://www.udemy.com/user/nelio-alves
-- https://youtube.com/devsuperior
-- https://instagram.com/devsuperior.ig
+# Microsserviços Java com Spring Boot e Spring Cloud
+## Atenção: Projeto específico para versões Java 11 e Spring Boot 2.3.4
 
 # Checklist baixar e executar projeto pronto
 
@@ -11,7 +7,7 @@
 - Configurar IDE para pegar Java 11
 - Importar projetos na IDE
 - Configurar credenciais do config server
-  - Modelo do curso: https://github.com/acenelio/ms-course-configs
+  - Modelos: https://github.com/alexandreestevao/ms-spring-cloud-configs
 - Preparar Postman (collection e environment)
 - Subir projetos em ordem:
   - Config server
